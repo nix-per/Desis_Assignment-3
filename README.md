@@ -24,4 +24,10 @@ Registered Email ID- nikki.gautam@desisascendeducare.in
 
 ## DESCRIPTION:
 
-In order to run the files
+Since the assignment was given in a manner such that the Question-1 and Question-2 are divided into two problems:
+- Bus Booking Management App
+- Food Delivery App
+Hence, instead of making folders for Question-1 and Question-2, I have divided the folders on the basis of the problems
+This has been done for easy access of solutions to the same problem
+
+Also, since the Question-3 is independent of the problem statements and a separate topic on its own, it has been solved in a separate file 
